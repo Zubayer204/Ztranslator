@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+"""
+This is language translator made by Zubayer Rahaman. I am using PyQt5.
+"""
+
 import gui
 import pyperclip
 import sys
